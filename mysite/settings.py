@@ -25,7 +25,7 @@ SECRET_KEY = 'og=t+de=#eq-s2d7&ml_yjbp2b4g_jeolh!dkfn6@zmc1d&fyn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['bprallon.pythonanywhere.com']
+ALLOWED_HOSTS = ['bprallon.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
